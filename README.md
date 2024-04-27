@@ -1,6 +1,7 @@
 # ambw_uts
 
-A new Flutter project.
+UTS AMBW
+Vincentius Rio - C14210006
 
 ## Getting Started
 
